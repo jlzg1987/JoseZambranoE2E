@@ -23,15 +23,15 @@ src
   + test
     + java                          
       + glues                  
-         + glueStep
+        + glueStep
       + runners
-          + globalRunner 
+        + globalRunner 
     + resources
       + features                    
         + Shop.feature
     Serenity.conf
 ### Ejecutando las pruebas
-Ejecutar mvn clean verifydesde la línea de comando.
+Ejecutar mvn clean verify  desde la línea de comando.
 
 
 Los resultados de la prueba se registrarán aquí target/site/serenity/index.html. 
