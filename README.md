@@ -29,7 +29,7 @@ src
     + resources
       + features                    
         + Shop.feature
-    Serenity.conf
+      + Serenity.conf
 ### Ejecutando las pruebas
 Ejecutar mvn clean verify  desde la línea de comando.
 
